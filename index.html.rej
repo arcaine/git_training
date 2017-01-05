@@ -1,0 +1,17 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -3,11 +3,15 @@
+  <head>
+  
+  </head>
+ +
+    <body>
+++<<<<<<< HEAD
+ +Hey
+ +    Hello World
+ +    Hellow
+ +Hey
+++=======
++     
+++>>>>>>> parent of 086b6f8... Hello
+    </body>
+  </html>
